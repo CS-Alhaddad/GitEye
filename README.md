@@ -11,6 +11,8 @@ This repository contains the GitHub Organization Policy Enforcement System, desi
     - Each organization requires different policies
     - The user might not have too much hands-on knowledge about their own GitHub Environment
     - The user might not know what policies do they want to audit for in their organization
+    - The user will need high availability on this tool (can be used in any time)
+    - The user might need to offload the reports generates to another place
   - R - Requirements ( Functional / Non-Functional / Legal / Other Entity's Requiremnts ... ) :
   - {Eh} (Environment Hidden Variable) : 
 - Interface :
