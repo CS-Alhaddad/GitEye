@@ -1,8 +1,6 @@
 # GitEye
 Automated GitHub organization policy enforcement system for your github organization. Validates and remediates compliance across repositories, projects, and teams against organizational standards: naming conventions, visibility settings, branch policies, access controls, and structural requirements.
 
-# GitHub Organization Policy Enforcement System
-
 ## Repository Description
 This repository contains the GitHub Organization Policy Enforcement System, designed to ensure compliance with organizational policies across multiple repositories. It automates the enforcement of rules and best practices to maintain the integrity and security of the codebase.
 
