@@ -5,11 +5,14 @@ Automated GitHub organization policy enforcement system for your github organiza
 This repository contains the GitHub Organization Policy Enforcement System, designed to ensure compliance with organizational policies across multiple repositories. It automates the enforcement of rules and best practices to maintain the integrity and security of the codebase.
 
 # WRSPM Data :
-## W - World Assumptions
-## R - Requirements ( Functional / Non-Functional / Legal / Other Entity's Requiremnts ... )
-## S - System Specifications
-## P - Program Assumptions
-## M - Machine Assumptions
+- Environment :
+- - W - World Assumptions
+- - R - Requirements ( Functional / Non-Functional / Legal / Other Entity's Requiremnts ... )
+- Interface :
+- - S - System Specifications
+- System : 
+- - P - Program Assumptions
+- - M - Machine Assumptions
 
 
 
