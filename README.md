@@ -6,7 +6,11 @@ This repository contains the GitHub Organization Policy Enforcement System, desi
 
 # WRSPM Data :
 - Environment :
-  - W - World Assumptions : 
+  - W - World Assumptions :
+    - We have different organizations on GitHub
+    - Each organization requires different policies
+    - The user might not have too much hands-on knowledge about their own GitHub Environment
+    - The user might not know what policies do they want to audit for in their organization
   - R - Requirements ( Functional / Non-Functional / Legal / Other Entity's Requiremnts ... ) :
   - {Eh} (Environment Hidden Variable) : 
 - Interface :
