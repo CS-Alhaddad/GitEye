@@ -11,7 +11,7 @@ This repository contains the GitHub Organization Policy Enforcement System, desi
   - {Eh} (Environment Hidden Variable) : 
 - Interface :
   - S - System Specifications :
-  - Ev (Environment Visible Variable) :
+  - {Ev} (Environment Visible Variable) :
   - {Sv} (System Visible Variable) : 
 - System : 
   - P - Program Assumptions : 
