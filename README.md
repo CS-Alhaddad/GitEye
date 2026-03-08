@@ -6,13 +6,17 @@ This repository contains the GitHub Organization Policy Enforcement System, desi
 
 # WRSPM Data :
 - Environment :
-  - W - World Assumptions : 
-  - R - Requirements ( Functional / Non-Functional / Legal / Other Entity's Requiremnts ... ) : 
+  **- W - World Assumptions : **
+  - R - Requirements ( Functional / Non-Functional / Legal / Other Entity's Requiremnts ... ) :
+  - Eh (Environment Hidden Variable) : 
 - Interface :
-  - S - System Specifications : 
+  - S - System Specifications :
+  - Ev (Environment Visible Variable) :
+  - Sv (System Visible Variable) : 
 - System : 
   - P - Program Assumptions : 
   - M - Machine Assumptions :
+  - Sh (System Hidden Variable) : 
     
 
 
