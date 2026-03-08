@@ -6,13 +6,13 @@ This repository contains the GitHub Organization Policy Enforcement System, desi
 
 # WRSPM Data :
 - Environment :
-- - W - World Assumptions
-- - R - Requirements ( Functional / Non-Functional / Legal / Other Entity's Requiremnts ... )
+  - W - World Assumptions
+  - R - Requirements ( Functional / Non-Functional / Legal / Other Entity's Requiremnts ... )
 - Interface :
-- - S - System Specifications
+  - S - System Specifications
 - System : 
-- - P - Program Assumptions
-- - M - Machine Assumptions
+  - P - Program Assumptions
+  - M - Machine Assumptions
 
 
 
